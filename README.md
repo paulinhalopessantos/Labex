@@ -14,10 +14,10 @@ O projeto Labex foi criado por mim no **curso de desenvolvimento full stack da L
 Trata-se de uma aplicação que permite gerir viajens espaciais, onde há a possibilidade de se inscrever numa viagem, cadastrar uma viagem, excluir, listagem 
 de candidados para a viagem, listagem de viagens e informações da viagem.
 
-- ⚠ Para conseguir acessar a parte do admin do projeto, será necessário utilizar os seguintes dados:
+ ⚠ Para conseguir acessar a parte do admin do projeto, será necessário utilizar os seguintes dados:
 
-*Email:*paula.cruz@labenu.com
-*Senha:*123456
+**Email:** paula.cruz@labenu.com
+**Senha:** 123456
 
  ## Deploy da Aplicação com Surge: :dash:
 >
