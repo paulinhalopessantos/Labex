@@ -16,8 +16,8 @@ de candidados para a viagem, listagem de viagens e informações da viagem.
 
  ⚠ Para conseguir acessar a parte do admin do projeto, será necessário utilizar os seguintes dados:
 
-**Email:** paula.cruz@labenu.com
-**Senha:** 123456
+- **Email:** paula.cruz@labenu.com
+- **Senha:** 123456
 
  ## Deploy da Aplicação com Surge: :dash:
 >
