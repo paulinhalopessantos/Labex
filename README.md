@@ -32,7 +32,7 @@ de candidados para a viagem, listagem de viagens e informações da viagem.
 ## 🏷 Como baixar e rodar o projeto
 ```Bash
 * Clonar o projeto
-$ git clone https://github.com/paulinhalopessantos/pokedex.git
+$ git clone https://github.com/paulinhalopessantos/Labex.git
 * Entrar no diretório
 $ cd pokedex
 * Instalar as dependências
